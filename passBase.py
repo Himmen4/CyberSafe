@@ -1,7 +1,7 @@
 import string
 import random
 
-alpabet=string.ascii_letters+string.digits+string.punctuation
+alpabet=string.ascii_let ters+string.digits+string.punctuation
 password = " "
 while input("Хотите продолжить?:\n") == "+":
 
